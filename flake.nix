@@ -1,6 +1,6 @@
 {
   inputs = rec {
-    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-24.05";
+    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-25.05";
     flake-utils.url = "github:numtide/flake-utils";
 
     convert_3mf2stl_src.url = "github:lemgandi/3mf2stl";
